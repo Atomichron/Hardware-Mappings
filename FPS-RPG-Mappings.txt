@@ -1,8 +1,21 @@
-MAPPINGS FOR COMPETITIVE FIRST PERSON SHOOTERS AND SINGLE PLAYER LOCAL RPGS
+MAPPINGS FOR COMPETITIVE FIRST PERSON SHOOTERS
+(AND SINGLE PLAYER LOCAL RPGS WITH FEWER KEYS)
 
 Not all mappings can always be satisfied, but By illustrating a general trend a mostly baseline mapping can be applied.
 A few keys may be substituted or swapped in games with more fields than easily-accessible left-hand-only keyboard keys.
 These mappings attempt to minimize need for right hand at all so that you can use a split keyboard and not leave mouse.
+
+Why?
+- Ideally keys should be mapped so you can always perform any function while still moving, looking around, and aiming.
+- Keys that are frequently used should be closer to WASD and not require stretching (definitely map CapsLock to Ctrl).
+- Important functions should be easily accessible over unimportant, but this is up to you to balance with the last pt.
+
+How?
+1. Start by mapping all keys that do not have an "! EXTRA !" slot (choose either option).
+2. Map the keys above that you didn't map, either because the game doesn't have the field or has too few fields.
+3. If there are still fields to map prioritize which you care to use and map these to any remaining "! EXTRA !" keys.
+4. Look at the Customization Considerations at the bottom to swap or completely substitute (not use a game function).
+5. Or skip all above and do your own thing because you don't care to think this granularly / apply baseline mappings!
 
 Baseline Keyboard
 - WASD            = move
@@ -16,7 +29,7 @@ Baseline Keyboard
   - 6             = help tab (abilities/controls)         or    ! EXTRA !
 - Tab Row
   - Tab           = scoreboard                            or    inventory
-  - Q             = melee
+  - Q             ! melee
   - E             = interact (primary)                    or    { ABILITY 3 }
   - R             = reload
   - T             = alternate interact                    or    switch character
@@ -47,10 +60,12 @@ Baseline Keyboard
 Baseline Mouse
 - LeftForward     = RightForward mirror                   or    ! EXTRA !
 - LeftBack        = RightBack mirror                      or    ! EXTRA !
-- RightForward    = { ABILITY 1 }                         or    ! EXTRA !
+- RightForward    ! { ABILITY 1 }                         or    melee
 - RightBack       = push-to-talk                          or    ! EXTRA !
 - MiddleClick     = ping (general)                        or    voice line wheel
 
 Customization Considerations
-- May want to switch:
+- May want to switch (these have ! marks instead of = signs above to help you find these):
+  - Melee can be on keyboard or mouse. Preference depends on how frequent and immediate you need to punch it!
 - May want to substitute completely:
+  - TBD...
