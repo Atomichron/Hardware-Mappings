@@ -1,0 +1,23 @@
+MAPPINGS FOR COMPETITIVE FIRST PERSON SHOOTERS AND SINGLE PLAYER LOCAL RPGS
+
+Not all mappings can always be satisfied, but By illustrating a general trend a mostly baseline mapping can be applied.
+A few keys may be substituted or swapped in games with more fields than easily-accessible left-hand-only keyboard keys.
+These mappings attempt to minimize need for right hand at all so that you can use a split keyboard and not leave mouse.
+
+Baseline Keys
+- WASD            = move
+- #s Row
+  - 1             = map
+  - 2             = weapon 1 or holster weapon
+  - 3             = weapon 2 or ultimate/special ability
+  - 4             = weapon 3 or max heal
+  - 5             = equip item (survival
+  - 6             = help tab (character abilities, controls, etc.)
+- Tab Row
+  - Q             = melee
+  - E
+  - R
+  - T
+- Caps Row
+- Shift Row
+- Bottom Row
