@@ -13,7 +13,7 @@ WHY?
 - Important functions should be easily accessible over unimportant, but this is up to you to balance with the last pt.
 
 HOW?
-0. Look at several games settings. This file used Apex, Overwatch, CoD, Halo, Borderlands, and Assassin's Creed.
+0. Assess your game's ACTION-OR-ITEM & ABILITY fields for frequency & importance (lower #s below = higher rank).
 1. Start by mapping all keys that do not have an "! EXTRA !" slot (choose either option and don't use your own).
 2. Map the keys above that you didn't map, either because the game doesn't have the field or has too few fields.
 3. If there are still fields to map prioritize which you care to use and map these to any remaining "! EXTRA !" keys.
@@ -25,39 +25,39 @@ HOW?
 BASELINE KEYBOARD
 
 EXAMPLE GAME:       COMPETITIVE FPS                             MOBA                                    RPG
-- #s Row          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+- #s Row          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  Reach For Specials
   - `             = macro for Discord (Ctrl + Alt + `)    or    !       !                         or    !       !
   - 1             = map                                   or    social/audio channel menu         or    !       !
   - 2             = weapon 1/holster weapon               or    !       !                         or    !       !
-  - 3             = weapon 2/ultimate ability             or    { ABILITY 4 } (ultimate ability)  or    !       !
+  - 3             = weapon 2/ultimate ability             or    ABILITY 4 (ultimate ability)      or    !       !
   - 4             = weapon 3/max heal+shield item         or    !       !                         or    !       !
-  - 5             = action-or-item 4                      or    !       !                         or    !       !
+  - 5             = ACTION-OR-ITEM 4                      or    !       !                         or    !       !
   - 6             = help tab (abilities/controls)         or    !       !                         or    !       !
-- Tab Row         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+- Tab Row         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  Frequent/Important
   - Tab           = scoreboard                            or    scoreboard                        or    inventory
   - Q             X melee/tactical ability                or    melee                             or    !       !
-  - E             = interact 1                            or    { ABILITY 3 }                     or    !       !
+  - E             = interact 1                            or    ABILITY 3                         or    !       !
   - R             = reload                                or    reload                            or    reload
   - T             = interact 2                            or    switch character                  or    !       !
-- Caps Row        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+- Caps Row        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  Home Is The Center
   - CapsLock      = crouch/slide                          or    crouch/slide                      or    crouch/slide
   - F             X ping (enemy)/throwable                or    X ping (enemy)/throwable          or    !       !
   - G             X ping (enemy)/throwable                or    group-up com                      or    !       !
-- Shift Row       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-  - Shift         = sprint/walk                           or    { ABILITY 2 }                     or    parry/block
-  - Z             = action-or-item 3/shield 1             or    !       !                         or    !       !
-  - X             = action-or-item 1/heal 1               or    need-healing com                  or    drop down
-  - C             = action-or-item 2/heal 2               or    thank-you com                     or    !       !
+- Shift Row       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  Frequent/Important
+  - Shift         = sprint/walk                           or    ABILITY 2                         or    parry/block
+  - Z             = ACTION-OR-ITEM 3/shield 1             or    !       !                         or    !       !
+  - X             = ACTION-OR-ITEM 1/heal 1               or    need-healing com                  or    drop down
+  - C             = ACTION-OR-ITEM 2/heal 2               or    thank-you com                     or    !       !
   - V             = weapon mode toggle                    or    spray wheel                       or    !       !
-  - B             = action-or-item 5 (rarely used)        or    emote wheel                       or    !       !
-- Bottom Row      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-  - Ctrl          = CapsLock mirror                       or    CapsLock mirror                   or    CapsLock mirror
+  - B             = ACTION-OR-ITEM 5 (rarely used)        or    emote wheel                       or    !       !
+- Bottom Row      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  Thumbs Exclusively
+  - Ctrl          = CapsLock mirror                       or    CapsLock mirror                   or    CapsLock mirror                   (CapsLock >= Ctrl)
   - Alt           = item/comms wheel (while moving)       or    item/comms wheel (while moving)   or    dodge
   - Space         = jump                                  or    jump                              or    climb
 - Mouse Custom    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
   - LeftForward   = RightForward mirror                   or    RightForward mirror               or    RightForward mirror
   - LeftBack      = RightBack mirror                      or    RightBack mirror                  or    RightBack mirror
-  - RightForward  X melee/tactical ability                or    { ABILITY 1 }                     or    !       !
+  - RightForward  X melee/tactical ability                or    ABILITY 1                         or    !       !
   - RightBack     = push-to-talk                          or    push-to-talk                      or    !       !
   - MiddleClick   = ping (general)                        or    coms/voice wheel (while moving)   or    !       !
 - Mouse Default   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
