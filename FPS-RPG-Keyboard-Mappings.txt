@@ -1,23 +1,28 @@
 MAPPINGS FOR COMPETITIVE FIRST PERSON SHOOTERS
-(AND SINGLE PLAYER LOCAL RPGS WITH FEWER KEYS)
+(and single player local RPGs with fewer keys)
+
+
 
 Not all mappings can always be satisfied, but By illustrating a general trend a mostly baseline mapping can be applied.
 A few keys may be substituted or swapped in games with more fields than easily-accessible left-hand-only keyboard keys.
 These mappings attempt to minimize need for right hand at all so that you can use a split keyboard and not leave mouse.
 
-Why?
+WHY?
 - Ideally keys should be mapped so you can always perform any function while still moving, looking around, and aiming.
 - Keys that are frequently used should be closer to WASD and not require stretching (definitely map CapsLock to Ctrl).
 - Important functions should be easily accessible over unimportant, but this is up to you to balance with the last pt.
 
-How?
+HOW?
 1. Start by mapping all keys that do not have an "! EXTRA !" slot (choose either option and don't use your own).
 2. Map the keys above that you didn't map, either because the game doesn't have the field or has too few fields.
 3. If there are still fields to map prioritize which you care to use and map these to any remaining "! EXTRA !" keys.
 4. Look at the Customization Considerations at the bottom to swap or completely substitute (not use a game function).
 5. Or skip all above and do your own thing because you don't care to think this granularly / apply baseline mappings!
 
-Baseline Keyboard
+
+
+BASELINE KEYBOARD
+
 - WASD            = move
 - #s Row
   - `             = macro for Discord (Ctrl + Alt + `)    or    in-game screenshot (PrtSc key maps to Windows10 well)
@@ -35,8 +40,8 @@ Baseline Keyboard
   - T             = alternate interact                    or    switch character
 - Caps Row
   - CapsLock      = crouch/slide                          or
-  - F             = ping (enemy)                          or    ! EXTRA !
-  - G             = grenade/throwable                     or    group-up com
+  - F             ! ping (enemy)                          or    ! EXTRA !
+  - G             ! grenade/throwable                     or    group-up com
 - Shift Row
   - Shift         = sprint/walk                           or    { ABILITY 2 }
   - Z             = big shield                            or    ! EXTRA !
@@ -46,7 +51,7 @@ Baseline Keyboard
   - B             = character utility action              or    emote wheel
 - Bottom Row
   - Ctrl          = CapsLock mirror                       or    ! EXTRA !
-  - Alt           = item wheel (e.g. use health item)     or    communication wheel
+  - Alt           = item/comms wheel (use while moving)   or    dodge
   - Space         = jump                                  or    climb
 - Right-Handed
   - P             = pause game
@@ -57,17 +62,28 @@ Baseline Keyboard
   - Enter         = open chat
   - Backspace     = hide chat (if mapping too simple/interferes with other apps use Ctrl + Shift + Backspace)
 
-Baseline Mouse
+
+
+BASELINE MOUSE
+
+- LeftClick       = fire
+- RightClick      = zoom
 - LeftForward     = RightForward mirror                   or    ! EXTRA !
 - LeftBack        = RightBack mirror                      or    ! EXTRA !
 - RightForward    ! { ABILITY 1 }                         or    melee
 - RightBack       = push-to-talk                          or    ! EXTRA !
 - MiddleClick     = ping (general)                        or    voice line wheel
 
-Customization Considerations
+
+
+CUSTOMIZATION CONSIDERATIONS
+
 - May want to switch (these have ! marks instead of = signs above to help you find these):
   - Melee can be on keyboard or mouse. Preference depends on how frequent and immediate you need to punch it!
+  - Ping (enemy) and grenade mappings may be useful to switch if playing a game like Halo with lots of chucking.
+
 - May want to substitute completely:
+  - In RPGs like Assassin's Creed or other games where you want to constantly scan to find items map function to C.
   - N ow then, if a game has too few fields to map or the fields are unique you may find none of the options above.
     O n the other hand, you may decide against certain mappings above.
     O verall, you should do what fits your hands and preferences best.
