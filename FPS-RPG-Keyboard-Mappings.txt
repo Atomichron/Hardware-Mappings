@@ -24,37 +24,48 @@ HOW?
 
 BASELINE KEYBOARD
 
-- WASD            = move
-- #s Row
-  - `             = macro for Discord (Ctrl + Alt + `)    or    in-game screenshot (PrtSc key maps to Windows10 well)
-  - 1             = map                                   or    social/audio channel menu
-  - 2             = weapon 1                              or    holster weapon
-  - 3             = weapon 2                              or    { ABILITY 4 } (ultimate/special)
-  - 4             = weapon 3                              or    max heal+shield
-  - 5             = equip item (survival)                 or    ! EXTRA !
-  - 6             = help tab (abilities/controls)         or    ! EXTRA !
-- Tab Row
-  - Tab           = scoreboard                            or    inventory
-  - Q             ! melee
-  - E             = interact (primary)                    or    { ABILITY 3 }
-  - R             = reload
-  - T             = alternate interact                    or    switch character
-- Caps Row
-  - CapsLock      = crouch/slide                          or
-  - F             ! ping (enemy)                          or    ! EXTRA !
-  - G             ! grenade/throwable                     or    group-up com
-- Shift Row
-  - Shift         = sprint/walk                           or    { ABILITY 2 }
-  - Z             = big shield                            or    ! EXTRA !
-  - X             = small shield                          or    need-healing com
-  - C             = small heal                            or    thank-you com
-  - V             = toggle fire mode                      or    spray wheel
-  - B             = character utility action              or    emote wheel
-- Bottom Row
-  - Ctrl          = CapsLock mirror                       or    ! EXTRA !
-  - Alt           = item/comms wheel (use while moving)   or    dodge
-  - Space         = jump                                  or    climb
-- Right-Handed
+EXAMPLE GAME:       COMPETITIVE FPS                             MOBA                                    RPG
+- #s Row          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  - `             = macro for Discord (Ctrl + Alt + `)    or    ! EXTRA !                         or    ! EXTRA !
+  - 1             = map                                   or    social/audio channel menu         or    !       !
+  - 2             = weapon 1/holster weapon               or                        or    !       !
+  - 3             = weapon 2                              or    !       !                         or    { ABILITY 4 } (ultimate/special)
+  - 4             = weapon 3                              or    max heal+shield                   or    !       !
+  - 5             = equipment/item                        or    !       !                         or    !       !
+  - 6             = help tab (abilities/controls)         or    !       !                         or    !       !
+- Tab Row         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  - Tab           = scoreboard                            or    !       !                         or    inventory
+  - Q             ! melee                                 or    !       !                         or    !       !
+  - E             = interact (primary)                    or    { ABILITY 3 }                     or    !       !
+  - R             = reload                                or    !       !                         or    !       !
+  - T             = alternate interact                    or    switch character                  or    !       !
+- Caps Row        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  - CapsLock      = crouch/slide                          or    !       !                         or    !       !
+  - F             ! ping (enemy)                          or    !       !                         or    !       !
+  - G             ! grenade/throwable                     or    group-up com                      or    !       !
+- Shift Row       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  - Shift         = sprint/walk                           or    { ABILITY 2 }                     or    shield/block
+  - Z             = big shield                            or    ! EXTRA !                         or    !       !
+  - X             = heal                                  or    need-healing com                  or    drop down
+  - C             = secondary heal                        or    thank-you com                     or    !       !
+  - V             = toggle fire mode                      or    spray wheel                       or    !       !
+  - B             = character utility action              or    emote wheel                       or    !       !
+- Bottom Row      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  - Ctrl          = CapsLock mirror                       or    ! EXTRA !                         or    !       !
+  - Alt           = item/comms wheel (while moving)       or    dodge                             or    !       !
+  - Space         = jump                                  or    climb                             or    !       !
+- Mouse Custom    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  - LeftForward   = RightForward mirror                   or    !       !                         or    !       !
+  - LeftBack      = RightBack mirror                      or    !       !                         or    !       !
+  - RightForward  ! melee                                 or    !       !                         or    { ABILITY 1 }
+  - RightBack     = push-to-talk                          or    !       !                         or    !       !
+  - MiddleClick   = ping (general)                        or    coms/voice wheel (while moving)   or    !       !
+- Mouse Default   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  - LeftClick     = fire
+  - RightClick    = zoom
+  - ScrollUp      = previous weapon
+  - ScrollDown    = next weapon
+- Right Hand      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
   - P             = pause game
   - \             = emote
   - J             = team chat
@@ -62,20 +73,11 @@ BASELINE KEYBOARD
   - L             = private/party chat
   - Enter         = open chat
   - Backspace     = hide chat (if mapping too simple/interferes with other apps use Ctrl + Shift + Backspace)
-
-
-
-BASELINE MOUSE
-
-- LeftClick       = fire
-- RightClick      = zoom
-- ScrollUp        = previous weapon
-- ScrollDown      = next weapon
-- LeftForward     = RightForward mirror                   or    ! EXTRA !
-- LeftBack        = RightBack mirror                      or    ! EXTRA !
-- RightForward    ! { ABILITY 1 }                         or    melee
-- RightBack       = push-to-talk                          or    ! EXTRA !
-- MiddleClick     = ping (general)                        or    coms/voice line wheel (give orders while moving)
+  - WASD            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  - W             = move forward
+  - A             = move left
+  - S             = move backward
+  - D             = move right
 
 
 
