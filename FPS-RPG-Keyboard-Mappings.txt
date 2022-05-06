@@ -13,6 +13,7 @@ WHY?
 - Important functions should be easily accessible over unimportant, but this is up to you to balance with the last pt.
 
 HOW?
+0. Look at several games settings. This file used Apex, Overwatch, CoD, Halo, Borderlands, and Assassin's Creed.
 1. Start by mapping all keys that do not have an "! EXTRA !" slot (choose either option and don't use your own).
 2. Map the keys above that you didn't map, either because the game doesn't have the field or has too few fields.
 3. If there are still fields to map prioritize which you care to use and map these to any remaining "! EXTRA !" keys.
