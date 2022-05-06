@@ -45,11 +45,11 @@ EXAMPLE GAME:       COMPETITIVE FPS                             MOBA            
   - G             X ping (enemy)/throwable                or    group-up com                      or    !       !
 - Shift Row       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
   - Shift         = sprint/walk                           or    { ABILITY 2 }                     or    parry/block
-  - Z             = shield 1/action-or-item 3             or    !       !                         or    !       !
-  - X             = heal 1/action-or-item 1               or    need-healing com                  or    drop down
-  - C             = heal 2/action-or-item 2               or    thank-you com                     or    !       !
+  - Z             = action-or-item 3/shield 1             or    !       !                         or    !       !
+  - X             = action-or-item 1/heal 1               or    need-healing com                  or    drop down
+  - C             = action-or-item 2/heal 2               or    thank-you com                     or    !       !
   - V             = weapon mode toggle                    or    spray wheel                       or    !       !
-  - B             = action-or-item 3                      or    emote wheel                       or    !       !
+  - B             = action-or-item 5 (rarely used)        or    emote wheel                       or    !       !
 - Bottom Row      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
   - Ctrl          = CapsLock mirror                       or    CapsLock mirror                   or    CapsLock mirror
   - Alt           = item/comms wheel (while moving)       or    item/comms wheel (while moving)   or    dodge
