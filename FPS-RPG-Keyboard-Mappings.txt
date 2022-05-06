@@ -58,7 +58,7 @@ BASELINE KEYBOARD
   - \             = emote
   - J             = team chat
   - K             = all chat
-  - L             = private (whisper) chat
+  - L             = private/party chat
   - Enter         = open chat
   - Backspace     = hide chat (if mapping too simple/interferes with other apps use Ctrl + Shift + Backspace)
 
@@ -68,11 +68,13 @@ BASELINE MOUSE
 
 - LeftClick       = fire
 - RightClick      = zoom
+- ScrollUp        = previous weapon
+- ScrollDown      = next weapon
 - LeftForward     = RightForward mirror                   or    ! EXTRA !
 - LeftBack        = RightBack mirror                      or    ! EXTRA !
 - RightForward    ! { ABILITY 1 }                         or    melee
 - RightBack       = push-to-talk                          or    ! EXTRA !
-- MiddleClick     = ping (general)                        or    voice line wheel
+- MiddleClick     = ping (general)                        or    coms/voice line wheel (give orders while moving)
 
 
 
