@@ -11,7 +11,7 @@ Why?
 - Important functions should be easily accessible over unimportant, but this is up to you to balance with the last pt.
 
 How?
-1. Start by mapping all keys that do not have an "! EXTRA !" slot (choose either option).
+1. Start by mapping all keys that do not have an "! EXTRA !" slot (choose either option and don't use your own).
 2. Map the keys above that you didn't map, either because the game doesn't have the field or has too few fields.
 3. If there are still fields to map prioritize which you care to use and map these to any remaining "! EXTRA !" keys.
 4. Look at the Customization Considerations at the bottom to swap or completely substitute (not use a game function).
@@ -20,7 +20,7 @@ How?
 Baseline Keyboard
 - WASD            = move
 - #s Row
-  - `             = macro for Discord (Ctrl + Alt + `)    or    in-game screenshot (PrtSc key maps to Windows 10 well)
+  - `             = macro for Discord (Ctrl + Alt + `)    or    in-game screenshot (PrtSc key maps to Windows10 well)
   - 1             = map                                   or    social/audio channel menu
   - 2             = weapon 1                              or    holster weapon
   - 3             = weapon 2                              or    { ABILITY 4 } (ultimate/special)
@@ -55,7 +55,7 @@ Baseline Keyboard
   - K             = all chat
   - L             = private (whisper) chat
   - Enter         = open chat
-  - Ctrl + Shift + Backspace = hide chat
+  - Backspace     = hide chat (if mapping too simple/interferes with other apps use Ctrl + Shift + Backspace)
 
 Baseline Mouse
 - LeftForward     = RightForward mirror                   or    ! EXTRA !
@@ -68,4 +68,8 @@ Customization Considerations
 - May want to switch (these have ! marks instead of = signs above to help you find these):
   - Melee can be on keyboard or mouse. Preference depends on how frequent and immediate you need to punch it!
 - May want to substitute completely:
-  - TBD...
+  - N ow then, if a game has too few fields to map or the fields are unique you may find none of the options above.
+    O n the other hand, you may decide against certain mappings above.
+    O verall, you should do what fits your hands and preferences best.
+    B ut, using a template helps to map as much stuff similarly across games as possible and eases filling in gaps.
+    ! Yes, I spelled out NOOB! in this seciton, because this file is for that level of thought..plug and chug dood!
