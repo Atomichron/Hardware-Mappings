@@ -1,0 +1,26 @@
+MOUSE (G903) SETTINGS
+
+To configure connect via cable, flip physical power switch on, and set the following settings in LG Hub or Onboard Memory Manager:
+
+Non-Gaming Profile
+- TabLeft             = Ctrl + Shift + Tab
+- TabRight            = Ctrl + Tab
+- Overview            = Win + Tab
+- DPI                 = 1600
+
+Gaming Profile
+- LeftBack            = Back                  [Default]
+- LeftForward         = Forward               [Default]
+- RightBack           = Back                  [Default]
+- RightForward        = Forward               [Default]
+- LeftClick           = Primary Click         [Default]
+- RightClick          = Secondary Click       [Default]
+- MiddleClick         = Middle Click          [Default]
+- DPIDown             = Scroll Left           [Custom]
+- DPIUp               = Scroll Right          [Custom]
+- DPI                 = 800 (for FPS games)
+- 
+
+Lighting
+- Primary (Green)     = 008200 (R0/G130/B0)
+- Logo (Dark Pink)    = FF00FF (R255/G0/B255)
