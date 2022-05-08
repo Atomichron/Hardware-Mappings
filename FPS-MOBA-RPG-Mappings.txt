@@ -13,84 +13,81 @@ WHY?
 - Important functions should be easily accessible over unimportant, but this is up to you to balance with the last pt.
 
 HOW?
-0. Assess your game's ACTION-OR-ITEM & ABILITY fields for frequency & importance (lower #s below = higher rank).
-1. Start by mapping all keys that do not have an "! EXTRA !" slot (choose either option and don't use your own).
-2. Map the keys above that you didn't map, either because the game doesn't have the field or has too few fields.
-3. If there are still fields to map prioritize which you care to use and map these to any remaining "! EXTRA !" keys.
-4. Look at the Customization Considerations at the bottom to swap or completely substitute (not use a game function).
-5. Or skip all above and do your own thing because you don't care to think this granularly / apply baseline mappings!
+Assess your game's possible mapping fields for frequency/importance; then proceed to map, highest nubmer to lowest:
+1. Map MOST-USED-KEYs   - usually these are movement based or essential to attack/defense
+2. Map INTERACTs        - usually are essential to attack/defense, enviornment interactions, or weapons functions
+3. Map MENUs & EXTRAs   - these are wheel selection overlays or fullscreen stuff that blocks seeing the environment
+4. Map ACTION-OR-ITEMs  - these are your main actions and items
+5. Consider the SWAPS   - at the bottom of the table are some swap considerations
+6. Or skip all above    - do your own thing cuz practice is the most important, and hands and preferences vary
 
 
 
-BASELINE KEYBOARD
+BASELINE MAPPINGS
 
-EXAMPLE GAME:       COMPETITIVE FPS                             MOBA                                        RPG
-- #s Row          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  Reach For Specials
-  - `             = Discord macro (Ctrl+Alt+`)            or    Discord macro (Ctrl+Alt+`)            or    Discord macro (Ctrl+Alt+`)
-  - 1             = map                                   or    map                                   or    !       !
-  - 2             = weapon 1/holster weapon               or    social/audio channel menu             or    !       !
-  - 3             = weapon 2/ultimate ability             or    ABILITY 4 (ultimate ability)          or    !       !
-  - 4             = weapon 3/max heal+shield item         or    !       !                             or    !       !
-  - 5             = ACTION-OR-ITEM 4                      or    !       !                             or    !       !
-  - 6             = help tab (abilities/controls)         or    help tab (abilities/controls)         or    !       !
-- Tab Row         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  Frequent/Important
-  - Tab           = scoreboard                            or    scoreboard                            or    inventory/quests
-  - Q             X melee/tactical ability                or    !       !                             or    !       !/melee
-  - E             = interact 1                            or    ABILITY 3                             or    !       !/counter/parry
-  - R             = reload                                or    reload                                or    !       !/other
-  - T             = interact 2                            or    switch character                      or    map
-- Caps Row        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  Home Is The Center
-  - CapsLock      = crouch/slide                          or    crouch/slide                          or    crouch/slide
-  - F             X ping (enemy)/throwable 2              or    X ping (enemy)/throwable              or    !       !
-  - G             X ping (enemy)/throwable 1              or    group-up com                          or    gear/crafting
-- Shift Row       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  Frequent/Important
-  - Shift         = sprint                                or    ABILITY 2                             or    !       !/block/shield
-  - Z             = ACTION-OR-ITEM 3/shield 1             or    !       !                             or    !       !/sprint (toggle)
-  - X             = ACTION-OR-ITEM 1/heal 1               or    need-healing com                      or    !       !/drop down
-  - C             = ACTION-OR-ITEM 2/heal 2               or    thank-you com                         or    !       !
-  - V             = weapon mode toggle                    or    spray wheel                           or    !       !
-  - B             = ACTION-OR-ITEM 5 (rarely used)        or    emote wheel                           or    !       !
-- Bottom Row      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  Thumbs Exclusively
-  - Ctrl          = CapsLock mirror                       or    CapsLock mirror                       or    CapsLock mirror               (CapsLock >= Ctrl)
-  - Alt           = item/comms wheel (while moving)       or    item/comms wheel (while moving)       or    !       !/dodge
-  - Space         = jump                                  or    jump                                  or    !       !/climb
-- Mouse Custom    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-  - LeftForward   = RightForward mirror                   or    RightForward mirror                   or    RightForward mirror
-  - LeftBack      = RightBack mirror                      or    RightBack mirror                      or    RightBack mirror
-  - RightForward  X melee/tactical ability                or    ABILITY 1                             or    !       !
-  - RightBack     = push-to-talk                          or    push-to-talk                          or    !       !
-  - MiddleClick   = ping (general)                        or    coms/voice wheel (while moving)       or    !       !
-- Mouse Default   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-  - LeftClick     = fire
-  - RightClick    = zoom
-  - ScrollUp      = previous weapon
-  - ScrollDown    = next weapon
-- Right Hand      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-  - P             = pause game
-  - \             = emote
-  - J             = team chat
-  - K             = all chat
-  - L             = private/party chat
-  - Enter         = open chat
-  - Backspace     = hide chat (or Ctrl+Shift+Backspace)
-- WASD            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-  - W             = move forward
-  - A             = move left
-  - S             = move backward
-  - D             = move right
+                    CATEGORY-PRIORITY                   FPS AND MOBA EXAMPLES                             RPG FPS EXAMPLES
+- #s Row            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  Reach For Specials
+  - `             = DISCORD-MACRO (Ctrl-Alt-`)
+  - 1             = MAP
+  - 2             = WEAPON-1                            holster-weapons           audio-menu
+  - 3             = WEAPON-2          / ABILITY-4       special-ability           ultimate
+  - 4             = WEAPON-3                            max-heal-item
+  - 5             = ACTION-OR-ITEM-8
+  - 6             = CONTROLS-HELP
+- Tab Row           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  Frequent/Important
+  - Tab           = MENU-2                              score                     score                   quests
+  - Q             X MELEE-OR-TACTICAL                                                                     distract
+  - E             = INTERACT-1        / ABILITY-3                                                         counter
+  - R             = INTERACT-2                          reload                    reload                  reload
+  - T             = INTERACT-3                                                    switch-character
+- Caps Row          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  Home Is The Center
+  - CapsLock      = MOST-USED-KEY-1                     crouch-slide              crouch-slide            crouch-slide
+  - F             X ACTION-OR-ITEM-3  / THROW-1         ping-threat               ping-threat
+  - G             X ACTION-OR-ITEM-5  / THROW-2 / MENU-3                          com-group-up            crafting-inventory
+- Shift Row         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  Frequent/Important
+  - Shift         = MOST-USED-KEY-3   / ABILITY-2       sprint                    sprint                  block-counter
+  - Z             = ACTION-OR-ITEM-4                    shield                    mount                   mount
+  - X             = ACTION-OR-ITEM-1                    heal-small                need-healing com        climb-down
+  - C             = ACTION-OR-ITEM-2                    heal-large                com-thank-you
+  - V             = ACTION-OR-ITEM-6                    weapon-mode               spray-wheel
+  - B             = ACTION-OR-ITEM-7                    emote-wheel               recall                  rest
+- Bottom Row        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  Thumbs Exclusively
+  - Ctrl          = CAPSLOCK-MIRROR                                                                                                           (CapsLock >= Ctrl)
+  - Alt           X MENU-1                              items-or-coms-moving                              dodge
+  - Space         = MOST-USED-KEY-2                     jump                                              climb-up
+- Mouse Custom      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  - LeftForward   = ! EXTRA ! (if available, takes priority over ACTION-OR-ITEM-4)
+  - LeftBack      = ! EXTRA ! (if available, takes priority over ACTION-OR-ITEM-5)
+  - RightForward  X MELEE-OR-TACTICAL / ABILITY-1
+  - RightBack     = PUSH-TO-TALK
+  - MiddleClick   X MOST-USED-KEY-4                     ping-general              items-or-coms-moving
+- Mouse Default     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  - LeftClick     = ATTACK
+  - RightClick    = ZOOM
+  - ScrollUp      = PREVIOUS-WEAPON-OR-ITEM
+  - ScrollDown    = NEXT-WEAPON-OR-ITEM
+- Right Hand        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  - P             = PAUSE-GAME
+  - \             = ! EXTRA !                           emote-default
+  - J             = CHAT-TEAM
+  - K             = CHAT-ALL
+  - L             = CHAT-DM-OR-PARTY
+  - Enter         = OPEN-CHAT
+  - Backspace     = HIDE-CHAT (Ctrl-Shift-Backspace)
+- WASD              ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  - W             = MOVE-FORWARD
+  - A             = MOVE-LEFT
+  - S             = MOVE-BACKWARD
+  - D             = MOVE-RIGHT
 
 
 
-CUSTOMIZATION CONSIDERATIONS
+SWAPS
 
 - May want to switch (these have X instead of = above to help you find these):
-  - Melee can be on keyboard or mouse. Preference depends on how frequent and immediate you need to punch it!
-  - Ping (enemy) and grenade mappings may be useful to switch if playing a game like Halo with lots of chucking.
-
-- May want to substitute completely:
-  - In RPGs like Assassin's Creed or other games where you want to constantly scan to find items map function to C.
-  - N ow then, if a game has too few fields to map or the fields are unique you may find none of the options above.
-    O n the other hand, you may decide against certain mappings above.
-    O verall, you should do what fits your hands and preferences best.
-    B ut, using a template helps to map as much stuff similarly across games as possible and eases filling in gaps.
-    ! Yes, I spelled out NOOB! in this seciton, because this file is for that level of thought..plug and chug dood!
+  - Q   <->   RightForward
+    - May be useful to switch melee between keyboard and mouse - just depends how fast you need to punch it!
+  - F   <->   G
+    - May be useful to switch ACTION-OR-ITEM-3 and MELEE-OR-TACTICAL if partaking in lots of grenade chucking.
+  - Alt <->   MiddleClick
+    - Often the MOST-USED-KEY-4 and MENU-1 mappings are mostly interchangeable in terms of frequency/importance.
