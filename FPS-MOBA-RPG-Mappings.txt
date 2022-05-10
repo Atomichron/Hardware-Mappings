@@ -45,7 +45,7 @@ BASELINE MAPPINGS
   - F             X ACTION-OR-ITEM-3  / THROW-1             ping-threat               ping-threat
   - G             X ACTION-OR-ITEM-5  / THROW-2 / MENU-3                              com-group-up            crafting-inventory
 - Shift Row         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  Frequent/Important
-  - Shift         = MOST-USED-KEY-3   / ABILITY-2           sprint                    sprint                  block-counter
+  - Shift         = MOST-USED-KEY-3   / ABILITY-2           sprint                    sprint                  block-shield
   - Z             = ACTION-OR-ITEM-4                        shield                    mount                   mount
   - X             = ACTION-OR-ITEM-1                        heal-small                need-healing com        climb-down
   - C             = ACTION-OR-ITEM-2                        heal-large                com-thank-you
